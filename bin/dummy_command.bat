@@ -31,5 +31,3 @@ exit /b 0
 :abnormal_end
 echo end of dummy_command (abnormal end)
 exit /b 1
-
-pause
