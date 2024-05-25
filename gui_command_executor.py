@@ -30,7 +30,7 @@ LIST_PADDING = 10
 TEXTBOX_LENGTH = 250
 
 
-def write_message(page: ft.Page, list_view: ft.ListView, message: str):
+def write_message(page: ft.Page, list_view: ft.ListView, message: str) -> None:
     list_view.controls.append(ft.Text(message))
     page.update()
     return
