@@ -79,6 +79,7 @@ def execute_command(page: ft.Page, list_view: ft.ListView, text_value: str) -> N
     return
 
 
+# Main
 def main(page: ft.Page) -> None:
 
     os.environ['PATH'] += ';' + CMD_DIR
