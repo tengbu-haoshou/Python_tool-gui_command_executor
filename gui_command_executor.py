@@ -4,7 +4,7 @@
 # gui_command_executor.py
 #
 # Date    : 2024-05-25
-# Auther  : Hirotoshi FUJIBE
+# Author  : Hirotoshi FUJIBE
 # History :
 #
 # Copyright (c) 2024 Hirotoshi FUJIBE
